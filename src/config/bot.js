@@ -9,7 +9,7 @@ export const botConfig = {
   // - "idle"      = yellow moon
   // - "dnd"       = red do-not-disturb
   // - "invisible" = appears offline
-  presence: {
+  presence: { Lover
     // Current online state shown on Discord.
     status: "idle",
 
@@ -21,7 +21,7 @@ export const botConfig = {
     // 3 = Watching
     // 4 = Custom
     // 5 = Competing
-    activities: [
+    activities: [ 
       {
         name: "Huilic's", // required by Discord API, not shown in the client
         state: "In Love W/ Gam <3",     // this is what people actually see
